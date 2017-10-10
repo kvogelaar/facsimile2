@@ -1,0 +1,794 @@
+
+	<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- BEGIN: writeHead() -->
+        
+		<title>Introduction - Medieval Book Facsimile and Manuscript Studies Guide - Research Guides @ Fordham at Fordham University Libraries</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="noarchive" />
+<!--AUTO GENERATED DUBLIN CORE METADATA-->
+<meta name="DC.Title" content="Research Guides @ Fordham: Medieval Book Facsimile and Manuscript Studies Guide: Introduction" />
+<meta name="DC.Creator" content="Patrice Kane" />
+<meta name="DC.Subject" content="History, Literature, Medieval Studies, Religion & Theology" />
+<meta name="DC.Description" content="" />
+<meta name="DC.Publishers" content="Fordham University Libraries" />
+<meta name="DC.Rights" content="Copyright Fordham University Libraries 2017" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Identifier" scheme="URI" content="//fordham.libguides.com/c.php?g=626623&p=4370279" />
+<meta name="DC.Date.Created" scheme="ISO8601" content="Feb 8, 2017" />
+<meta name="DC.Date.Modified" scheme="ISO8601" content="Aug 17, 2017" />
+
+		<meta property="og:title" content="Research Guides @ Fordham: Medieval Book Facsimile and Manuscript Studies Guide: Introduction">
+		<meta property="og:description" content="Research Guides @ Fordham: Medieval Book Facsimile and Manuscript Studies Guide: Introduction">
+			<meta property="og:image" content="http://fordham.libguides.com/ld.php?_=1507658840&size=facebook&screenshot=gcggcd.png">
+			<meta property="og:image:width" content="1200">
+			<meta property="og:image:height" content="627">
+			<meta name="twitter:image" content="http://fordham.libguides.com/ld.php?_=1507658840&size=twitter&screenshot=gcggcd.png">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="//fordham.libguides.com/c.php?g=626623&p=4370279">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@springshare">
+        <link rel="stylesheet" href="/web/jquery/css/1.8.24_themes_base_jquery-ui.css" />
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+            <link rel="stylesheet" href="/web/css1.19.5/lg-public.min.css" />
+        <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/web/css1.19.5/springshare.public.ie8hacks.css" />
+        <![endif]-->
+        <script type="text/javascript" src="/web/jquery/js/1.12.1_jquery.min.js"></script>
+        <script type="text/javascript" src="/web/jquery/js/1.9.2_jquery-ui.min.js"></script>
+            <script type="text/javascript" src="/web/js1.19.5/lg-public.min.js"></script>
+		<style>/* =========================================== */
+                        /* bootstrap overrides */
+                        /* =========================================== */
+                        #s-lg-tabs-container .nav-tabs > li > a,
+                        #s-lg-tabs-container .nav-tabs > li > button,
+                        #s-lg-tabs-container .nav-pills > li > a,
+                        #s-lg-tabs-container .nav-pills > li > button {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #eeeeee;
+                            color: #900028;
+                            font-weight: bold;
+                            padding: 4px 15px;
+                        }
+                        #s-lg-tabs-container .nav-tabs {
+                            border-bottom: 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+                            -webkit-border-radius: 4px 4px 0 0;
+                            -moz-border-radius: 4px 4px 0 0;
+                            border-radius: 4px 4px 0 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button:hover,
+                        #s-lg-tabs-container .nav-pills > li > a:hover,
+                        #s-lg-tabs-container .nav-pills > li > button:hover {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #900028;
+                            color: #ffffff;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > button,
+                        #s-lg-tabs-container .nav-pills > .active > a,
+                        #s-lg-tabs-container .nav-pills > .active > button {
+                            color: #ffffff;
+                            cursor: default;
+                            background-color: #900028;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+                            color: #ffffff;
+                            cursor: default;
+                            background-color: #900028;
+                            border-bottom-color: transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a:hover,
+                        #s-lg-tabs-container .nav-pills > .active > a:hover,
+                        #s-lg-tabs-container .nav-tabs > .active > button:hover,
+                        #s-lg-tabs-container .nav-pills > .active > button:hover {
+                            color: #ffffff;
+                            cursor: pointer;
+                            background-color: #900028;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav .dropdown-toggle .caret {
+                            border-top-color: #e1e1e1;
+                        }
+                        #s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+                            margin-left: 2px;
+                            margin-top: -3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 6px 4px 3px;
+                            border-left: 1px solid transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 6px 0px 3px;
+                            border-left: 1px solid transparent;
+                            margin-right: 2px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 4px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 0px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 5px 4px 10px;
+                        }
+                        .nav-tabs > li > a.s-lg-tab-top-link,
+                        .nav-tabs > li > button.s-lg-tab-top-link {
+                            margin-right: 0px;
+                        }
+
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 8px 4px 8px;
+                            border-left: 1px solid transparent;
+                            position: absolute;
+                            right: 0;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 8px 4px 8px;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+                            width: 100%;
+                            float: left;
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 15px 4px 15px;
+                        }#s-lg-guide-tabs-title-bar { border-top: 1px solid #900028; }
+                    .s-lib-box {
+                        border-color: #d6cfcf;
+                        border-width: 1px;
+                        box-shadow: 0 8px 6px -6px #AAAAAA;border-radius: 4px 4px 4px 4px;
+                        background-color: #ffffff;
+                    }
+                    .s-lib-box-std .s-lib-box-title {
+                        background-color: #900028;background-image: none;
+                        color: #ffffff;
+                        border-bottom: 1px solid #d6cfcf;
+                    }
+                    .s-lib-box .s-lib-box-title {
+                        background-color: #900028;background-image: none;
+                        color: #ffffff;
+                        border-bottom: 1px solid #d6cfcf;;
+                        border-radius: 3px 3px 0px 0px;
+                    }
+                    .s-lib-box .s-lg-box-footer {
+                    border-radius: 0px 0px 3px 3px;
+                    }</style>
+		<!-- BEGIN: CUSTOM HEAD SYSTEM JS/CSS -->
+		<style>body {color:black;}.s-lib-public-side-header {color:black;}a {color:#900028;}.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover{color:#fff;	background-color:#900028;}.btn-info{color:#fff;background-color:#900028;border-color:#000}.btn-info.active,.btn-info.focus,.btn-info:active,.btn-info:focus,.btn-info:hover,.open>.dropdown-toggle.btn-info{color:#fff;background-color:#56000B;	border-color:#000}.dropdown-menu, .multiselect-item.filter .input-group-addon, body {font-size:15px;} .s-lg-gmeta {display: none;} div#form-group-reuse_enable_copy, #form-group-enable_copy {  display: none;} .nav .s-lg-index-nav-btn>a {padding:5px 7px;}</style>
+		<!-- END: CUSTOM HEAD SYSTEM JS/CSS -->
+		<!-- BEGIN: CUSTOM HEAD GUIDE JS/CSS -->
+		
+		<!-- END: CUSTOM HEAD GUIDE JS/CSS -->
+		<script async  src="//fordham.libguides.com/sa2.php?site_id=513&tsh=libguides-proc.springyaws.com&cms=1"></script>
+		<script>
+			springSpace.Common = springSpace.Common || { };
+
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "//fordham.libguides.com/";
+			/*
+			springSpace.guidePublicObj = new springSpace.guidePublic.GuidePublic({
+				script_name: "/c.php",
+				guide_id: 626623,
+				page_id: 4370279,
+				constant: {
+					PROCESSING: {
+
+					},
+					CONTENT: {
+						CONTENT_BOOKS: 5
+					}
+				}
+			});
+			*/
+			// Hide guide attributes and subjects/tags if theyre empty.
+			jQuery(function () {
+				//jQuery("#s-lg-guide-header-subjects").hide();
+				//jQuery("#s-lg-guide-header-tags").hide();
+			});
+
+			handleScroll=function() {
+				var target_elt = "";
+				var anchor = window.location.hash.substring(1);
+
+				if (jQuery.isNumeric(anchor)) {
+					xhr = jQuery.ajax({
+						async: false,
+						url: "/content_process.php",
+						type: "POST",
+						dataType: "json",
+						data: {
+							action: 562,
+							anchor: anchor
+						},
+						success: function(response, textStatus, jqXHR) {
+							if ((response.data.box_id != 0) && jQuery("#s-lg-box-" + response.data.box_id)) {
+								target_elt = "#s-lg-box-" + response.data.box_id;
+							}
+						},
+						error: function (jqXHR, textStatus, errorThrown) {
+
+						}
+					});
+				}
+				else if (false) {
+					target_elt = "#s-lg-page-section-4370279";
+				}
+
+				if (target_elt != "") {
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+	   <script>
+			// Enable tooltips.
+			jQuery(function () {
+				try {
+					springSpace.UI.initPopOvers();
+				} catch (e) { }
+			});jQuery(window).on("load", function() {springSpace.springTrack.init({_st_site_id: '513',_st_guide_id: '626623',_st_page_id: '4370279'});});
+			jQuery(function() {jQuery(window).on("load", function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_group_id: '6979',_st_guide_id: '626623',_st_page_id: '4370279'});});
+			});
+			jQuery(document).ready(function() {
+				handleScroll();
+			});
+	   </script>
+		        <!-- END: writeHead() -->
+        	</head>
+		<body class="s-lg-guide-body">
+		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a>                <!-- BEGIN: Page Header -->
+         <div id="s-lib-banner"  class="container s-lib-banner-public" >
+                                        <a href="http://www.library.fordham.edu/" title="" target="" aria-hidden="true" tabindex="-1" ><img alt="Banner Image" usemap="#headermap" name="s-lib-banner-img" id="s-lib-banner-img" class="img-responsive" src="//libapps.s3.amazonaws.com/sites/513/banner/Untitled-1.jpg" aria-hidden="true" tabindex="-1" /></a>
+                         </div>        <!-- END: Page Header -->
+        <!-- BEGIN: Guide Info Header -->
+        <div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+            <div id="s-lib-bc">
+                
+			<ol id="s-lib-bc-list" class="breadcrumb">
+				
+					<li id="s-lib-bc-customer">
+						<a title="Fordham Libraries Home"  href="http://www.library.fordham.edu/">Fordham Libraries Home
+						</a>
+					</li>
+					<li id="s-lib-bc-site">
+						<a title="Research Guides @ Fordham"  href="//fordham.libguides.com/">Research Guides @ Fordham
+						</a>
+					</li>
+					<li id="s-lib-bc-group">
+						<a title="Fordham History &amp; Special Collection Guides"  href="//fordham.libguides.com?group_id=6979">Fordham History & Special Collection Guides
+						</a>
+					</li>
+					<li id="s-lib-bc-guide">
+						<a title="Medieval Book Facsimile and Manuscript Studies Guide"  href="//fordham.libguides.com/facsimiles">Medieval Book Facsimile and Manuscript Studies Guide
+						</a>
+					</li>
+					<li id="s-lib-bc-page" class="active">Introduction
+					</li>
+			</ol>            </div>
+			<div class="pull-right">
+				<div id="s-lg-guide-header-search">
+					
+				<div id="s-lg-guide-search-box">
+					<form role="search" id="s-lg-guide-search-form" action="//fordham.libguides.com/srch.php"
+					method="GET">
+						<div class="input-group input-group-sm">
+							<input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Search this Guide">
+							<label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="626623" />
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="submit">Search</button>
+							</span>
+						</div>
+					</form>
+				</div>				</div>
+							</div>
+            <div id="s-lg-guide-header-info">
+                <h1 id="s-lg-guide-name">Medieval Book Facsimile and Manuscript Studies Guide: Introduction</h1>
+                <div id="s-lg-guide-desc-container">
+                    <span id="s-lg-guide-description"></span>
+                </div>
+            </div>
+        </div>
+        <!-- END: Guide Info Header -->
+        <div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+            <div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Page Menu">
+                <ul class="nav nav-tabs split-button-nav" role="menu">
+                    
+				<li role="menuitem"  class="active">
+					<a
+						title=""
+						class="active"
+						href="//fordham.libguides.com/c.php?g=626623&p=4370279" 
+                        aria-label="Navigate to the page: Introduction"
+					>
+						<span>Introduction</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4489313" 
+                        aria-label="Navigate to the page: Christian Bibles/ Gospels"
+					>
+						<span>Christian Bibles/ Gospels</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574098" 
+                        aria-label="Navigate to the page: Christian Apocalypses"
+					>
+						<span>Christian Apocalypses</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4549832" 
+                        aria-label="Navigate to the page: Christian Liturgical Books"
+					>
+						<span>Christian Liturgical Books</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574285" 
+                        aria-label="Navigate to the page: Christian Devotional Texts"
+					>
+						<span>Christian Devotional Texts</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574474" 
+                        aria-label="Navigate to the page: Hebrew Bibles/Tehillim"
+					>
+						<span>Hebrew Bibles/Tehillim</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574495" 
+                        aria-label="Navigate to the page: Haggadot"
+					>
+						<span>Haggadot</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574896" 
+                        aria-label="Navigate to the page: Mahzorim"
+					>
+						<span>Mahzorim</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574964" 
+                        aria-label="Navigate to the page: Graduals/Antiphons"
+					>
+						<span>Graduals/Antiphons</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574230" 
+                        aria-label="Navigate to the page: Charters"
+					>
+						<span>Charters</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="//fordham.libguides.com/c.php?g=626623&p=4574466" 
+                        aria-label="Navigate to the page: Early Printed Books"
+					>
+						<span>Early Printed Books</span>
+                        
+					</a>
+				</li>
+					<li role="menuitem"  class="dropdown clearfix" aria-haspopup="true">
+                        <a
+							title=""
+							class="s-lg-tab-top-link  pull-left"
+							href="//fordham.libguides.com/c.php?g=626623&p=4592496" 
+                            aria-label="Navigate to the page: Further Reading"
+						>
+                    		<span>Further Reading</span>
+                            
+						</a>
+						<a class="s-lg-tab-drop dropdown-toggle" data-toggle="dropdown" aria-label="Guide sub-page dropdown control" href="javascript:void();">
+                            <span class="caret"></span>
+                            <span class="sr-only">Toggle Dropdown</span>
+                        </a>
+                        <ul  class="s-lg-subtab-ul dropdown-menu" role="menu">
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4592909" 
+                                    aria-label="Navigate to the page: Italian Introductory Bibliography"
+								>Italian Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718112" 
+                                    aria-label="Navigate to the page: German Introductory Bibliography"
+								>German Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718113" 
+                                    aria-label="Navigate to the page: English Introductory Bibliography"
+								>English Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718115" 
+                                    aria-label="Navigate to the page: French Introductory Bibliography"
+								>French Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718118" 
+                                    aria-label="Navigate to the page: Byzantine Greek Introductory Bibliography"
+								>Byzantine Greek Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718119" 
+                                    aria-label="Navigate to the page: Syriac Introductory Bibliography"
+								>Syriac Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718121" 
+                                    aria-label="Navigate to the page: Spanish Introductory Bibliography"
+								>Spanish Introductory Bibliography
+                                    
+								</a>
+                            </li>
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="//fordham.libguides.com/c.php?g=626623&p=4718124" 
+                                    aria-label="Navigate to the page: Hebrew Introductory Bibliography"
+								>Hebrew Introductory Bibliography
+                                    
+								</a>
+                            </li></ul>
+					</li>                </ul>
+            </div>
+        </div>
+        <div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+        <!-- BEGIN: Guide Content -->
+        <div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+            			
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes s-lg-box-special">
+							<div id="s-lg-box-wrapper-17608911" class="s-lg-box-wrapper-17608911">
+					<div id="s-lg-box-14917913-container" class="s-lib-box-container">
+						<div id="s-lg-box-14917913" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Introduction
+                                </h2>
+							<div id="s-lg-box-collapse-14917913" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-32433557" class="  clearfix">
+				<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:36px;">W</span>elcome to the Medieval Book Facsimile and Manuscript Studies Library Guide.&nbsp; The items showcased in this guide are in Walsh Library&rsquo;s Special Collections and Archives&rsquo; Leach Collection. &nbsp;These facsimiles were generously donated to Fordham University by Dr. James Leach, M.D., who collected them over a number of years.&nbsp; Dr. Leach gave them to Fordham, knowing of Fordham&rsquo;s Center for Medieval Studies and realizing how great a use these facsimiles could be to medieval&nbsp;students.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:28px;">T</span>he facsimiles of the Leach collection are of a stunning quality.&nbsp; Many of them match the originals they mirror to such an extent that even minute flaws are matched, folio-by-folio and line-by-line.&nbsp; Replicated illuminations even show where and to what degree the illuminated paint of the original has worn away over time, and reproduce&nbsp;with unparalleled accuracy what effects consistent reference and use in devotional practices had on the texts. &nbsp;While most facsimiles in the collection use paper treated to mirror parchment in feel and appearance, some do use parchment, dyed to replicate the worn original. &nbsp;The parchment grain and colouration&nbsp;of some facsimiles match to an almost eerie degree, as if the animals whose flesh that had been used in the production&nbsp;of the original books had been brought back to contribute their lives once again to the recording of human experiences and knowledge.&nbsp; These facsimiles provide students at every level an invaluable opportunity to study texts and books that they otherwise might never be granted access to see, let alone handle.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:28px;">I</span>t is to this end that this research guide has been created.&nbsp; This guide serves both as a means of showing researchers what the Leach collection has to offer and provides bibliographies and further reading lists to aid a student&rsquo;s entry into the field of medieval manuscript studies. &nbsp;The bibliographies&nbsp;provided in this guide are not intended to be comprehensive. &nbsp;Rather, they serve as starting points for students to expand their own research.&nbsp; Each section contains its own bibliography of sources speaking generally to the kind of texts and genres listed in that section, and links are provided to additional further reading lists which are also viewable in the &quot;General Reference&quot; tab. &nbsp;Additionally, each facsimile listed also contains a link to its library catalogue entry.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:28px;">F</span>or the sake of usability, the facsimiles have been divided into sections defined by their contents and genre.&nbsp; The facsimiles are then listed chronologically. &nbsp;Information on the rough geographic region in which the original text was produced is also provided, using modern terms to facilitate quick reference.&nbsp; Some texts, such as the Hebrew&nbsp;manuscript facsimiles, are listed separately according to their language and for the fact that they emulate&nbsp;texts of a different tradition and faith than the others listed, the vast majority of which are Latin Christian.&nbsp; However, Hebrew facsimiles, in addition to having their own bibliographies, are also linked to the same further reading lists as the Christian manuscript facsimiles.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:28px;">T</span>hank you very much for using this library guide.&nbsp; A great debt of thanks is due to Dr. Leach, without whose generosity and keen sense for quality facsimile reproductions we would not be able to avail ourselves of this exceptional resource.&nbsp;&nbsp; This guide owes a great deal to Dr. Susanne Hafner, Dr. Emanuel Fiano, and Dr. Sarit Kattan Gribetz for their contributions to the further reading lists and bibliographies and to Dr. Laura Morrale for her organizational assistance and suggestions for how to best address questions that inevitably arise from the academic use of physical facsimiles.</p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-17608972" class="s-lg-box-wrapper-17608972">
+					<div id="s-lg-box-14917966-container" class="s-lib-box-container">
+						<div id="s-lg-box-14917966" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Questions to Consider
+                                </h2>
+							<div id="s-lg-box-collapse-14917966" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-32433658" class="  clearfix">
+				<p>When approaching these facsimiles for academic study, it may be useful to keep in mind these questions:</p>
+
+<ol>
+	<li>What role does the facsimile play in manuscript studies?&nbsp; Should the facsimile be considered a part of a manuscript&rsquo;s circulation&nbsp;and reception?</li>
+	<li>What is the difference between studying a text with an accidental error or imperfection and studying a facsimile with an intentional and mirrored error or imperfection?&nbsp; Is there a difference between the two at all?</li>
+	<li>How should we approach the materiality of the physical facsimile? &nbsp;Should facsimiles be considered reconstructive, reproductive, and/or representative of the texts they&nbsp;emulate?</li>
+	<li>To what extent can a physical facsimile be used in lieu of the original book&nbsp;or text?&nbsp; What are the limits of using a facsimile?</li>
+</ol>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-18024673" class="s-lg-box-wrapper-18024673">
+					<div id="s-lg-box-15282186-container" class="s-lib-box-container">
+						<div id="s-lg-box-15282186" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Guide Organizer and Researcher
+                                </h2>
+							<div id="s-lg-box-collapse-15282186" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-33299336" class="  clearfix">
+				<p style="text-align: center;"><img alt="" src="//libapps.s3.amazonaws.com/accounts/126867/images/Kevin.jpg" style="width: 200px; height: 200px;" /></p>
+
+<p style="text-align: center;">Kevin Vogelaar</p>
+
+<p style="text-align: center;">MA, Medieval Studies</p>
+
+<p style="text-align: center;">Fordham University</p>
+
+<p>Contact:</p>
+
+<p>kvogelaar@fordham.edu</p>
+
+<p>&nbsp;</p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-3" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-16041723" class="s-lg-box-wrapper-16041723">
+					<div id="s-lg-box-13597815-container" class="s-lib-box-container">
+						<div id="s-lg-box-13597815" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Head of Archives and Special CollectionsSubject Guide
+                                </h2>
+							<div id="s-lg-box-collapse-13597815" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lib-profile-44445" class="s-lib-profile-container"><a href="//fordham.libguides.com/prf.php?account_id=52572">
+				<div id="s-lib-profile-image-44445" class="s-lib-profile-div s-lib-profile-center s-lib-profile-image">
+					<img src="//libapps.s3.amazonaws.com/accounts/52572/profiles/44445/head_shot.jpg" alt="Patrice Kane's picture" />
+				</div><div id="s-lib-profile-name-44445" class="s-lib-profile-div s-lib-profile-center s-lib-profile-name">Patrice Kane</div></a>
+				<div id="s-lib-profile-email-44445" class="s-lib-profile-div s-lib-profile-center s-lib-profile-email">
+				</div>
+				<div id="s-lib-profile-widget-la-44445" class="s-lib-profile-div s-lib-profile-widget-la">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-lc-44445" class="s-lib-profile-div s-lib-profile-widget-lc">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-other-44445" class="s-lib-profile-div s-lib-profile-widget-other">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-contact-44445" class="s-lib-profile-div s-lib-profile-contact"><strong>Contact:</strong><div>Archives & Special Collections<br /><br />
+Walsh Library, Fordham University<br /><br />
+Bronx, NY  10458<br />
+kane@fordham.edu</div>
+				</div>
+				<div id="s-lib-profile-social-44445" class="s-lib-profile-div s-lib-profile-social"><strong>Social:</strong><a title="Facebook" href="https://www.facebook.com/FordhamLibrary"><i class="fa fa-facebook fa-lg"><span class="sr-only">Facebook Page</span></i></a><a title="LinkedIn" href="https://www.linkedin.com/edu/fordham-university-18956"><i class="fa fa-linkedin fa-lg"><span class="sr-only">LinkedIn Page</span></i></a><a title="Pinterest" href="https://www.pinterest.com/fordhamlibrary"><i class="fa fa-pinterest fa-lg"><span class="sr-only">Pinterest Page</span></i></a><a title="Twitter" href="https://twitter.com/FordhamLibrary"><i class="fa fa-twitter fa-lg"><span class="sr-only">Twitter Page</span></i></a><a title="YouTube" href="http://www.youtube.com/user/FordhamUniversity"><i class="fa fa-youtube fa-lg"><span class="sr-only">YouTube Page</span></i></a>
+				</div>
+				<div id="s-lib-profile-subjects-44445" class="s-lib-profile-div s-lib-profile-subjects"><strong>Subjects:</strong><a href="//fordham.libguides.com/BiographyGuides">Biography</a>, <a href="//fordham.libguides.com/FordhamGuides">Fordham University</a>, <a href="//fordham.libguides.com/GenealogyGuides">Genealogy</a>, <a href="//fordham.libguides.com/LibraryInformationGuides">Library & Information Science</a>, <a href="//fordham.libguides.com/NewYorkCityGuides">New York, New York</a>
+				</div>
+			</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes s-lg-box-special">
+							<div id="s-lg-box-wrapper-18118061" class="s-lg-box-wrapper-18118061">
+					<div id="s-lg-box-15365023-container" class="s-lib-box-container">
+						<div id="s-lg-box-15365023" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Archives & Special Collections Department
+                                </h2>
+							<div id="s-lg-box-collapse-15365023" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-33489764" class="  clearfix">
+				<p style="text-align: center;"><span style="color:#FFFFFF;"></span></p>
+
+<p style="text-align: center;"><span style="color:#FFFFFF;"></span></p>
+
+<p style="text-align: center; border: thick solid #990000; background-color: #7a0000;"><span style="color:#FFFFFF;"><strong><span style="font-size: 14px;">Archives &amp; Special Collections<br />
+Fordham University Libraries</span></strong><br />
+<br />
+<span style="font-size:12px;"><strong>Walsh Library</strong>&nbsp; &diams;&nbsp; Rose Hill Campus&nbsp; <span style="color: rgb(255, 255, 255);">&diams;&nbsp; 718-817-3560&nbsp; <span style="color: rgb(255, 255, 255);">&nbsp; </span></span><br />
+<span style="font-size:11px;"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255);">library@fordham.edu&nbsp;&nbsp; <span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255);">&diams;&nbsp;&nbsp; text 71-TXTX-1284&nbsp;&nbsp; <span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255);"></span></span></span></span></span></span></span></span></span></span></p>
+
+<p>&nbsp;</p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>            
+				<ul id="s-lg-page-prevnext" class="pager s-lib-hide">
+					<li class="previous">
+					
+					</li>
+					<li class="next">
+					<a href="//fordham.libguides.com/c.php?g=626623&p=4489313"><strong>Next:</strong> Christian Bibles/ Gospels &gt;&gt;</a>
+					</li>
+				</ul>        </div>
+        <!-- END: Guide Content -->
+        <!-- BEGIN: Page Footer -->
+        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
+            <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+                <ul id="s-lg-guide-header-attributes" class="">
+                    <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Aug 17, 2017 11:35 AM</span>                    </li>
+                    <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://fordham.libguides.com/facsimiles</span>                    </li>
+                    <li id="s-lg-guide-print-url">
+                        <a href="javascript: window.print();"><i class="fa fa-print" title="Print Page"></i> Print Page</a>                    </li>
+                </ul>
+                <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+                    <a href="https://fordham.libapps.com/libapps/login.php?site_id=513&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTYyNjYyMyZwPTQzNzAyNzk=">Login to LibApps</a>                </div>
+            </div>
+            <div class="pad-bottom-sm clearfix">
+                <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                     
+                </div>
+                <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    
+                    <span class="s-lg-guide-label">Subjects: </span>
+                    <span class="s-lg-small bold"><a href="//fordham.libguides.com/sb.php?subject_id=66816">History</a>, <a href="//fordham.libguides.com/sb.php?subject_id=66818">Literature</a>, <a href="//fordham.libguides.com/sb.php?subject_id=56709">Medieval Studies</a>, <a href="//fordham.libguides.com/sb.php?subject_id=56718">Religion & Theology</a></span>
+                                    </div>
+                <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    
+                    <span class="s-lg-guide-label">Tags: </span>
+                    <span class="s-lg-small bold"><a href="//fordham.libguides.com/srch.php?tag=anatolia&default_lg=1">anatolia</a>, <a href="//fordham.libguides.com/srch.php?tag=art history&default_lg=1">art history</a>, <a href="//fordham.libguides.com/srch.php?tag=bible&default_lg=1">bible</a>, <a href="//fordham.libguides.com/srch.php?tag=byzantine&default_lg=1">byzantine</a>, <a href="//fordham.libguides.com/srch.php?tag=catholic&default_lg=1">catholic</a>, <a href="//fordham.libguides.com/srch.php?tag=catholicism&default_lg=1">catholicism</a>, <a href="//fordham.libguides.com/srch.php?tag=charter&default_lg=1">charter</a>, <a href="//fordham.libguides.com/srch.php?tag=devotion&default_lg=1">devotion</a>, <a href="//fordham.libguides.com/srch.php?tag=england&default_lg=1">england</a>, <a href="//fordham.libguides.com/srch.php?tag=facsimile&default_lg=1">facsimile</a>, <a href="//fordham.libguides.com/srch.php?tag=flanders&default_lg=1">flanders</a>, <a href="//fordham.libguides.com/srch.php?tag=france&default_lg=1">france</a>, <a href="//fordham.libguides.com/srch.php?tag=germany&default_lg=1">germany</a>, <a href="//fordham.libguides.com/srch.php?tag=hebrew&default_lg=1">hebrew</a>, <a href="//fordham.libguides.com/srch.php?tag=influence&default_lg=1">influence</a>, <a href="//fordham.libguides.com/srch.php?tag=judaic studies&default_lg=1">judaic studies</a>, <a href="//fordham.libguides.com/srch.php?tag=liturgy&default_lg=1">liturgy</a>, <a href="//fordham.libguides.com/srch.php?tag=manuscript studies&default_lg=1">manuscript studies</a>, <a href="//fordham.libguides.com/srch.php?tag=medieval bibliography&default_lg=1">medieval bibliography</a>, <a href="//fordham.libguides.com/srch.php?tag=medieval music&default_lg=1">medieval music</a>, <a href="//fordham.libguides.com/srch.php?tag=medievalism&default_lg=1">medievalism</a>, <a href="//fordham.libguides.com/srch.php?tag=orthodox&default_lg=1">orthodox</a>, <a href="//fordham.libguides.com/srch.php?tag=orthodoxy&default_lg=1">orthodoxy</a>, <a href="//fordham.libguides.com/srch.php?tag=patronage&default_lg=1">patronage</a>, <a href="//fordham.libguides.com/srch.php?tag=piety&default_lg=1">piety</a>, <a href="//fordham.libguides.com/srch.php?tag=poetry&default_lg=1">poetry</a>, <a href="//fordham.libguides.com/srch.php?tag=printing&default_lg=1">printing</a>, <a href="//fordham.libguides.com/srch.php?tag=reading&default_lg=1">reading</a>, <a href="//fordham.libguides.com/srch.php?tag=reading practices&default_lg=1">reading practices</a>, <a href="//fordham.libguides.com/srch.php?tag=reproduction&default_lg=1">reproduction</a>, <a href="//fordham.libguides.com/srch.php?tag=spain&default_lg=1">spain</a>, <a href="//fordham.libguides.com/srch.php?tag=syria&default_lg=1">syria</a>, <a href="//fordham.libguides.com/srch.php?tag=syriac&default_lg=1">syriac</a>, <a href="//fordham.libguides.com/srch.php?tag=texts&default_lg=1">texts</a>, <a href="//fordham.libguides.com/srch.php?tag=textual tradition&default_lg=1">textual tradition</a></span>
+                                    </div>
+            </div>
+        </div>
+        <!-- END: Page Footer -->
+        
+			<div id="s-lib-scroll-top">
+				<a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
+				aria-hidden="true">
+					<span class="fa-stack fa-lg">
+					  <i class="fa fa-square-o fa-stack-2x"></i>
+					  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+					</span>
+				</a>
+			</div>        <div id="s-lib-alert" title="">
+                            <div id="s-lib-alert-content"></div>
+                       </div>        
+                <!-- BEGIN: Custom Footer -->
+                
+
+		<!-- END: Custom Footer -->
+	</body>
+	</html>
